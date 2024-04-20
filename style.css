@@ -4,7 +4,7 @@
 }
 
 .container{
-    border: 5px solid black;
+/*     border: 5px solid black; */
     border-radius: 10px;
     display: flex;
     flex-direction: column;
